@@ -7,6 +7,12 @@
 </head>
 <body>
 
+
+
+
+<h1>This is a Heading</h1>
+<p id="content">This is a paragraph.</p>
+    
 <script>
 const md = new Remarkable({
     html:true
@@ -14,10 +20,6 @@ const md = new Remarkable({
 
 document.getElementById("content").innerHTML = md.render('# tada!')
 </script>
-
-
-<h1>This is a Heading</h1>
-<p id="content">This is a paragraph.</p>
 
 </body>
 </html>
