@@ -14,6 +14,10 @@
 <p id="content">This is a paragraph.</p>
     
 <script>
+const md = new Remarkable({
+    html:true
+});    
+
 let xhr = new XMLHttpRequest();
 xhr.open("GET", "https://raw.githubusercontent.com/mineshaft-game/Mineshaft/main/CHANGELOG.md"); // asking for index.md
 xhr.onload = function() // the onload callback is (asynchronously) sent when the file finishes loading
