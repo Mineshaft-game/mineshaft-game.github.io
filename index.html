@@ -15,7 +15,7 @@
     
 <script>
 let xhr = new XMLHttpRequest();
-xhr.open("GET", "https://github.com/Mineshaft-game/Mineshaft/raw/main/CHANGELOG.md"); // asking for index.md
+xhr.open("GET", "https://raw.githubusercontent.com/mineshaft-game/Mineshaft/main/CHANGELOG.md"); // asking for index.md
 xhr.onload = function() // the onload callback is (asynchronously) sent when the file finishes loading
 {
   let text = xhr.responseText;
