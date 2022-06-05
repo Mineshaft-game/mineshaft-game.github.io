@@ -1,0 +1,8 @@
+{
+  "ms-270522":{
+    "linux":{
+      "amd64": "https://github.com/Mineshaft-game/Mineshaft/releases/tag/ms-270522/mineshaft.AppImage",
+      "assets" : "https://github.com/Mineshaft-game/Mineshaft/releases/tag/ms-270522/assets.zip"
+    }
+  }
+}
