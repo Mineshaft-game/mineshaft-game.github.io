@@ -1,8 +1,8 @@
 {
   "ms-270522":{
     "linux":{
-      "x86_64": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/407257280/7adf2cb1-6dbf-4a51-bc37-26292df4f2d7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220606T011909Z&X-Amz-Expires=300&X-Amz-Signature=a80a8b9d8591315007234fb406ce301ff93dfda73b2506267d086d6adb976106&X-Amz-SignedHeaders=host&actor_id=71947459&key_id=0&repo_id=407257280&response-content-disposition=attachment%3B%20filename%3Dmineshaft.AppImage&response-content-type=application%2Foctet-stream",
-      "assets" : "https://objects.githubusercontent.com/github-production-release-asset-2e65be/407257280/6509f5c4-1f50-49aa-a92c-24ab46cb597c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220606T011939Z&X-Amz-Expires=300&X-Amz-Signature=fe782a32f07d842070eb86a22772d6c5cc4fd62dd5d56ef0c8b39c3b3b3bbb20&X-Amz-SignedHeaders=host&actor_id=71947459&key_id=0&repo_id=407257280&response-content-disposition=attachment%3B%20filename%3Dassets.zip&response-content-type=application%2Foctet-stream"
-    }
+      "x86_64": "http://downloads.sourceforge.net/project/mineshaft2d/ms-270522/mineshaft.x86_64.AppImage",
+      "assets" : "http://downloads.sourceforge.net/project/mineshaft2d/ms-270522/assets.zip"
+      }
   }
 }
